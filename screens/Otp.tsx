@@ -47,8 +47,6 @@ function Otp() {
        
        </View>
         
-        
-     
   );
 }
 
